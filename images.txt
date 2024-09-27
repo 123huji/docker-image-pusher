@@ -1,2 +1,5 @@
 bin20088/nginx:latest
 httpd:latest
+bstbox:1.36
+rckylinux:9
+ninx:1.26
